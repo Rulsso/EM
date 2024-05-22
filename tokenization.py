@@ -7,3 +7,4 @@ def text_tokenization(text):
     # Extract sentences
     sentences = [sent.text for sent in doc.sents]
     #print(sentences)
+    return sentences

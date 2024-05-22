@@ -1,6 +1,7 @@
 import data_clean
 import tokenization
 import file_manager
+import vocabulary
 def main():
     # File name 
     file_name = 'e990519_mod.htm'
@@ -8,7 +9,9 @@ def main():
     (text, file_name)
     file_manager.create_file(text,"clean.txt")
     text = tokenization.text_tokenization(text)
-    file_manager.create_file(text,"tokens.txt")
+    file_manager.create_file_from_list(text,"tokens.txt")
+    text = vocabulary.build_vocabulary(text)
+    file_manager.create_file_from_list(text,"vocabulary.txt")
     print("done!")
 
 if __name__ == "__main__":
