@@ -1,6 +1,9 @@
-
+import os
 
 def create_file(txt, file_name):
+    if os.path.exists("files/"+file_name):
+        # delete file 
+        os.remove("files/"+file_name)
 
     try:
         with open("files/"+file_name, 'w', encoding='utf-8') as archivo:
@@ -10,6 +13,9 @@ def create_file(txt, file_name):
         print(f"Ocurrió un error al guardar el archivo: {e}")
 
 def create_file_from_list(txt,file_name):
+    if os.path.exists("files/"+file_name):
+        # delete file 
+        os.remove("files/"+file_name)
 
     try:
         with open("files/"+file_name, 'w') as file:

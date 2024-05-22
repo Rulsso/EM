@@ -1,10 +1,11 @@
 import spacy
 
-def text_tokenization(text):
-    nlp = spacy.load("es_core_news_sm")
+nlp = spacy.load("es_core_news_sm")
+
+def text_tokenization(text):  
     # Process the text
     doc = nlp(text)
     # Extract sentences
-    sentences = [sent.text for sent in doc.sents]
+    tokens = [token.text for token in doc]
     #print(sentences)
-    return sentences
+    return tokens

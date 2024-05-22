@@ -79,7 +79,7 @@ superar
 propios
 miedos
 ejercitar
-las
+la
 fuerzas
 soberanas
 decían
@@ -92,7 +92,7 @@ votaron
 una
 consulta
 directa
-bases
+base
 se
 ampliaron
 conjuro
@@ -152,7 +152,7 @@ villanueva
 quien
 pedía
 precisar
-topes
+tope
 gastos
 campaña
 cuales
@@ -166,7 +166,7 @@ dispuestos
 invertir
 capitales
 riesgo
-es
+e
 menos
 tan
 aleatoria
@@ -194,7 +194,7 @@ un
 solo
 operador
 enreden
-pitas
+pita
 ha
 sido
 habitual
@@ -215,7 +215,7 @@ civil
 votantes
 potenciales
 constitucional
-pos
+po
 usos
 costumbres
 setenta
@@ -272,7 +272,7 @@ trajeron
 retiro
 fernando
 gutiérrez
-barrios
+barrio
 don
 dicen
 unción
@@ -291,7 +291,7 @@ inauguran
 deja
 atrás
 método
-ranas
+rana
 pidiendo
 rey
 acuerdo
@@ -341,7 +341,7 @@ portillo
 sólo
 podía
 acabar
-les
+le
 ernesto
 zedillo
 quiere
@@ -427,7 +427,7 @@ níspero
 recuperado
 desde
 establecieron
-ferias
+feria
 anuales
 tradición
 sigue
@@ -440,7 +440,7 @@ totalidad
 sean
 glorioso
 tuxpan
-mis
+mi
 amores
 jarochos
 o
@@ -461,19 +461,19 @@ mejor
 especie
 magnolio
 aroma
-araucarias
+araucaria
 gran
 deleite
 reencuentros
 fui
 paisaje
 inmenso
-juncos
+junco
 arbolazos
 montañas
 bruma
 detenida
-pies
+pie
 ángeles
 escribe
 hoy
@@ -525,9 +525,9 @@ dormir
 teorema
 arquitectónico
 rebeca
-arenas
+arena
 orcí
-todas
+toda
 insisto
 conocidas
 mí
@@ -546,9 +546,9 @@ nuestro
 inacabables
 cafetales
 esos
-dos
+do
 días
-nos
+no
 rodearon
 iluminación
 suspendida
@@ -568,8 +568,8 @@ quieren
 sube
 baja
 mía
-planes
-voces
+plane
+vox
 conferenciantes
 florescano
 henestrosa
@@ -582,7 +582,7 @@ tierra
 adentro
 comedor
 baile
-antes
+ante
 instalarme
 memoria
 guanajuato
@@ -595,7 +595,7 @@ ayer
 inaprensible
 amo
 lugar
-aguas
+agua
 arenosas
 diversificación
 mercados
@@ -642,7 +642,7 @@ tuercas
 reciprocidad
 exigen
 tratados
-primos
+primo
 aun
 pasado
 parlamento
@@ -675,7 +675,7 @@ mundial
 ahí
 banano
 pues
-laudos
+laudo
 ecuador
 bruselas
 hacen
@@ -700,12 +700,12 @@ cuestión
 esperar
 anhelados
 intercambios
-mas
+ma
 necesariamente
 musicales
 escuchan
-sonoras
-rumbas
+sonora
+rumba
 inglés
 dense
 cuenta
@@ -750,7 +750,7 @@ insustituible
 malandrines
 designados
 sudacas
-mexicanos
+mexicano
 entramos
 singular
 gentilicio
@@ -777,7 +777,7 @@ ahogados
 zozobrantes
 pateras
 frente
-costas
+costa
 magrebinas
 columpio
 veras
@@ -832,7 +832,7 @@ puedo
 venir
 tal
 buscar
-mariposas
+mariposa
 romanos
 sugerir
 máxima
@@ -892,7 +892,7 @@ afectuosos
 festejos
 mismo
 dije
-amigos
+amigo
 conocidos
 llamaron
 teléfono
@@ -959,7 +959,7 @@ cerebro
 aplastarme
 certeza
 ésta
-recta
+rectum
 final
 ojalá
 siga
@@ -1217,7 +1217,7 @@ primera
 países
 árabes
 reconocido
-urss
+ur
 unas
 horas
 unidos
@@ -1342,7 +1342,7 @@ peor
 quedan
 lado
 apropian
-ricos
+rico
 habríamos
 estar
 estudios
@@ -1503,7 +1503,7 @@ rebeldía
 supuesta
 asociación
 clan
-salinas
+salina
 líneas
 acaban
 circular
@@ -1547,7 +1547,7 @@ resultado
 notable
 abusar
 imponer
-ideas
+idea
 asediada
 compasión
 agotaron
@@ -1564,7 +1564,7 @@ artificial
 ahogado
 dudarlo
 revivirán
-solos
+solo
 ayudarles
 triunfo
 barak
@@ -1607,7 +1607,7 @@ firmó
 perdiera
 paciencia
 hubo
-extrema
+extremum
 tensión
 mal
 disimulada
@@ -1645,7 +1645,7 @@ estabilizar
 yehud
 paloma
 pertenecido
-armadas
+armada
 milico
 puro
 alcanzó
@@ -1865,7 +1865,7 @@ formalizadores
 horrenda
 retroalimentados
 aquellos
-des
+de
 perversa
 información
 desconfianza
@@ -1931,7 +1931,7 @@ venta
 nulo
 personal
 tecnología
-sanitaria
+sanitarium
 tolerancia
 jefatura
 alimentos
@@ -1989,7 +1989,7 @@ commerce
 agrega
 accederá
 repetidas
-solicitudes
+solicitude
 presentadas
 banqueros
 consideran
@@ -2066,7 +2066,7 @@ sociales
 tlc
 permitido
 intercambio
-ambos
+ambo
 ascienda
 millones
 dólares
@@ -2080,7 +2080,7 @@ importa
 vecino
 norte
 bélgica
-juntas
+junta
 corea
 sur
 taiwán
@@ -2111,7 +2111,7 @@ objeto
 armonización
 respetuosa
 sobredimensionarlas
-aras
+ara
 lograr
 entendimiento
 democratización
@@ -2135,7 +2135,7 @@ mejores
 armas
 fortalecer
 opinaron
-plena
+plenum
 priísta
 permite
 clima
@@ -2217,7 +2217,7 @@ corrupción
 impunidad
 estancados
 cerca
-pesos
+peso
 mayolo
 medina
 linares
@@ -2263,7 +2263,7 @@ dejar
 combatir
 existan
 atacar
-mafias
+mafia
 prevenir
 delitos
 unam
@@ -2306,7 +2306,7 @@ cch
 xochimilco
 golpearon
 estudiantes
-maestros
+maestro
 destruyeron
 instalaciones
 destaca
@@ -2390,7 +2390,7 @@ abanderado
 anuncio
 multitud
 mariachi
-mantas
+manta
 vítores
 aurelio
 ramos
@@ -2496,7 +2496,7 @@ alocución
 consultado
 familia
 decidido
-fila
+filum
 asesores
 adolfo
 orive
@@ -2517,7 +2517,7 @@ humberto
 lira
 mora
 jiménez
-morales
+morale
 ensombrerado
 confederación
 pequeña
@@ -2555,7 +2555,7 @@ unidad
 transparencia
 compacto
 acompañantes
-metros
+metro
 titular
 ferrocarrilero
 víctor
@@ -2630,7 +2630,7 @@ mujeres
 recobren
 tengan
 concretas
-demos
+demo
 soluciones
 persona
 vestíbulo
@@ -2643,7 +2643,7 @@ prolongado
 inicial
 subiera
 posar
-juntos
+junto
 reporteros
 coparon
 preguntas
@@ -2717,7 +2717,7 @@ públicas
 promoción
 fiscal
 programación
-minas
+mina
 industria
 paraestatal
 portugal
@@ -2744,7 +2744,7 @@ señala
 gustaría
 fueran
 varios
-debates
+debate
 haré
 alianzas
 abriré
@@ -2813,7 +2813,7 @@ financiamiento
 suspenderá
 televisiva
 proselitismo
-mes
+me
 adelante
 tenemos
 mediante
@@ -2899,7 +2899,7 @@ profesional
 destreza
 manejar
 diferentes
-roles
+role
 simultáneamente
 profesionistas
 madres
@@ -2907,7 +2907,7 @@ parejas
 jefas
 ciento
 detentan
-cargos
+cargo
 secretarías
 procuradurías
 direcciones
@@ -2963,7 +2963,7 @@ documento
 adoptado
 indispensable
 abrir
-mesas
+mesa
 receptoras
 propiciar
 amplia
@@ -2989,7 +2989,7 @@ asegure
 integración
 imparcial
 comités
-locales
+locale
 distritales
 garantice
 instancias
@@ -3161,7 +3161,7 @@ liderazgo
 chicano
 total
 reportan
-personas
+persona
 ilegal
 apuntó
 productiva
@@ -3300,7 +3300,7 @@ extendieron
 décadas
 pequeños
 medianos
-latinos
+latino
 rescataron
 naufragaba
 pesadilla
@@ -3382,7 +3382,7 @@ hispana
 poblado
 vínculo
 traduce
-cruces
+crux
 kilómetros
 diarios
 obsesiva
@@ -3415,7 +3415,7 @@ asentó
 cabo
 disposiciones
 objetl
-os
+o
 recordaría
 reducir
 efectos
@@ -3440,10 +3440,10 @@ mercado
 vientos
 fríos
 encontrados
-chicanos
+chicano
 foro
 comonwealth
-alcaldes
+alcalde
 silicón
 misma
 recuperan
@@ -3499,7 +3499,7 @@ inmediato
 maniobra
 virtualmente
 advirtieron
-hombres
+hombre
 negocio
 crematístico
 indicaron
@@ -3591,13 +3591,13 @@ televisora
 ajusco
 revista
 variación
-meses
+me
 perredismo
 resalta
 enfrentará
 serios
 áreas
-urbanas
+urbana
 panismo
 radica
 pequeñas
@@ -3968,7 +3968,7 @@ permanecieron
 adhirieron
 carteles
 inscripciones
-hostiles
+hostile
 injurias
 despacha
 jerónimo
@@ -4076,7 +4076,7 @@ experimentado
 semanas
 precio
 petróleo
-fines
+fine
 permitirán
 alcanzar
 relativa
@@ -4202,9 +4202,9 @@ iniciarse
 positiva
 restablecimiento
 significativa
-reales
+real
 estabiliza
-finales
+finale
 fuente
 deuda
 consiguen
@@ -4235,7 +4235,7 @@ bajan
 cetes
 bdem
 suben
-dls
+dl
 gonzalez
 réditos
 referencia
@@ -4273,7 +4273,7 @@ pasados
 decimotercer
 trimestre
 consecutivo
-genera
+genus
 saldos
 positivos
 primario
@@ -4400,7 +4400,7 @@ david
 scheffer
 albanés
 habían
-dados
+dado
 estadunidenses
 liberaron
 soldados
@@ -4482,7 +4482,7 @@ aviación
 aliada
 conducido
 misiones
-serbias
+serbia
 tratado
 alcanzado
 debamos
@@ -4534,7 +4534,7 @@ sellar
 balcanes
 contado
 ue
-altos
+alto
 mandos
 pentágono
 convencidos
@@ -4653,7 +4653,7 @@ f
 turquía
 conducir
 ataque
-jets
+jet
 fad
 añadidos
 creciente
@@ -4719,7 +4719,7 @@ derrota
 venales
 corruptos
 amasaron
-fortunas
+fortuna
 costa
 trabajador
 martin
@@ -4841,7 +4841,7 @@ over
 all
 prenda
 correspondía
-simples
+simple
 desplazaban
 automóvil
 lujo
@@ -4891,7 +4891,7 @@ prosperará
 arraigarán
 golondrinos
 anidar
-largos
+largo
 periodos
 ahorro
 expandirán
@@ -4956,7 +4956,7 @@ dignos
 emergen
 espesura
 caos
-bravos
+bravo
 frentes
 retener
 silva
@@ -5073,7 +5073,7 @@ mar
 satisfechos
 calurosamente
 abiertas
-dias
+dia
 trueno
 postulación
 periodo
@@ -5120,7 +5120,7 @@ sonido
 tocaba
 acordes
 hojas
-media
+medium
 cuartilla
 dedicada
 felicitación
@@ -5386,7 +5386,7 @@ gilberto
 rincón
 gallardo
 encabezando
-ds
+d
 coordina
 laura
 carrera
@@ -5480,7 +5480,7 @@ jim
 glassman
 economista
 chase
-securities
+security
 inc
 interpretarían
 preocupada
@@ -5493,7 +5493,7 @@ dañadas
 señales
 tentativas
 dependiente
-tales
+tale
 incertidumbres
 exhortó
 dejara
@@ -5538,7 +5538,7 @@ pronosticadores
 elevara
 crecen
 macroeconomic
-advisers
+adviser
 st
 predijeron
 elevaría
@@ -5562,7 +5562,7 @@ adquisitivo
 impiden
 crezcan
 existencia
-autos
+auto
 ilegales
 afectan
 vehículos
@@ -5622,7 +5622,7 @@ evaden
 impuestos
 adecuado
 gasolina
-centavos
+centavo
 litro
 repercusión
 lograría
@@ -5686,8 +5686,8 @@ depósitos
 denominados
 atractivos
 noticia
-euros
-yens
+euro
+yen
 elevar
 retiraron
 inalteradas
@@ -5721,7 +5721,7 @@ vienen
 anthony
 banc
 one
-markets
+market
 acelerará
 agregaría
 superaron
@@ -5732,7 +5732,7 @@ repusieron
 caídas
 standard
 and
-poors
+poor
 compuesto
 nasdaq
 descendió
@@ -5793,7 +5793,7 @@ precaución
 implicar
 nikkei
 cayó
-plazas
+plaza
 sudeste
 asiático
 pérdidas
@@ -5810,8 +5810,8 @@ klci
 plaza
 favorecidos
 optimistas
-straits
-times
+strait
+time
 ciudadestado
 empujado
 liberalización
@@ -5977,10 +5977,10 @@ negó
 reiterado
 intervendrá
 forzado
-graves
+graf
 divisiones
 ocasionaron
-miles
+mile
 recodar
 abandonaron
 encabezaba
@@ -6041,11 +6041,11 @@ grande
 captadora
 tocó
 gubernamental
-arias
+aria
 pagaron
 ajustes
 implantadas
-variables
+variable
 alcista
 dato
 preveían
@@ -6130,7 +6130,7 @@ incluye
 transporte
 comunales
 eneromarzo
-ramas
+rama
 observados
 molienda
 café
@@ -6256,7 +6256,7 @@ firmes
 dejan
 retomó
 má
-traves
+trave
 flexibles
 laborales
 benignos
@@ -6296,7 +6296,7 @@ inactividad
 pepsico
 gana
 batalla
-colas
+cola
 exito
 gemex
 monterrey
@@ -6329,7 +6329,7 @@ costos
 funcionando
 purchase
 haciendo
-dineros
+dinero
 n
 enrique
 molina
@@ -6376,7 +6376,7 @@ descuentos
 duplicó
 mercuno
 llevando
-aires
+aire
 desmoralizado
 contrató
 miyar
@@ -6402,7 +6402,7 @@ gerente
 tienda
 heb
 chipinque
-foods
+food
 texas
 diferecnia
 inmediata
@@ -6572,7 +6572,7 @@ viajará
 aarón
 dichter
 nicolín
-communications
+communication
 comission
 fcc
 kennard
@@ -6701,7 +6701,7 @@ fax
 email
 motitasmexiscom
 postindustrial
-cambia
+cambium
 acerbital
 chs
 hewlett
@@ -6919,12 +6919,12 @@ fe
 comentar
 incide
 gravemente
-montes
+monte
 oca
 geo
 tramitó
 ordinario
-bis
+bi
 expediente
 laudo
 absuelve
@@ -6998,7 +6998,7 @@ mendieta
 yucatán
 desp
 col
-roma
+rom
 refuta
 hoteleros
 delgado
@@ -7049,7 +7049,7 @@ engrandecer
 crecer
 capacitar
 altura
-casinos
+casino
 respetables
 establecen
 deslinde
@@ -7097,7 +7097,7 @@ esgrimen
 dependiera
 moteles
 lourdes
-amazonas
+amazona
 aboga
 delegado
 rogamos
@@ -7198,7 +7198,7 @@ discutibles
 congresistas
 presupuestívoros
 capitalistas
-latitudes
+latitude
 legítimas
 realidades
 incuestionable
@@ -7332,7 +7332,7 @@ tardía
 conceda
 quede
 impune
-causas
+causa
 naturales
 deficiencias
 ocurrido
@@ -7429,12 +7429,12 @@ edificio
 h
 bolio
 acotó
-aptitudes
+aptitude
 albiceleste
 abren
 pertinente
 responda
-normas
+norma
 fija
 aceptable
 intente
@@ -7473,7 +7473,7 @@ supuestas
 electo
 suma
 lupa
-caciques
+cacique
 delegados
 contradicción
 férreamente
@@ -7485,12 +7485,12 @@ chiapaneco
 victorigaruiz
 tuxtla
 gutierrez
-chis
+chi
 ezln
 invitaciones
 reinicio
 prolongar
-bodegas
+bodega
 comunidades
 atienden
 intermediarios
@@ -7612,10 +7612,10 @@ mentiras
 engaños
 sufrido
 usanza
-jeans
+jean
 mezclilla
 azul
-botas
+bota
 camisa
 vaqueras
 texano
@@ -7747,7 +7747,7 @@ echeverristas
 salinistas
 portillistas
 emprendidas
-vistas
+vista
 priva
 definición
 comunicadores
@@ -7819,7 +7819,7 @@ voten
 prietito
 arroz
 inmersos
-galileos
+galileo
 hablo
 dimos
 circo
@@ -7907,7 +7907,7 @@ presas
 sagar
 inclemente
 azotado
-zonas
+zona
 llenado
 alertó
 urgir
@@ -7998,7 +7998,7 @@ agencias
 judiciales
 vecina
 naturalmente
-ins
+in
 siglas
 gestores
 liderados
@@ -8111,7 +8111,7 @@ microsísmica
 colima
 colimense
 evacuación
-machos
+macho
 agostadero
 borbollón
 cima
@@ -8126,7 +8126,7 @@ cordobán
 tuna
 cafecito
 beltrándurazno
-rutas
+ruta
 desalojo
 buebas
 recomienda
@@ -8205,7 +8205,7 @@ merma
 facturación
 realizarán
 ajustar
-agendas
+agenda
 fracción
 europea
 convertiría
@@ -8266,7 +8266,7 @@ antisindicales
 telefonistas
 manden
 organizadores
-maquiladoras
+maquiladora
 montan
 enviadas
 roccatti
@@ -8381,7 +8381,7 @@ viviendas
 obras
 vinculada
 inyección
-frescos
+fresco
 constituiría
 detonador
 reactivar
@@ -8506,7 +8506,7 @@ deforestación
 involuntariamente
 contribuir
 propagación
-fuegos
+fuego
 temporadas
 arrasan
 colón
@@ -8647,7 +8647,7 @@ creativas
 murales
 expresan
 resonancias
-antiguas
+antigua
 prehispánicas
 mesopotámicas
 griegas
@@ -8710,7 +8710,7 @@ empezar
 opina
 asociado
 vigilar
-prats
+prat
 octavo
 arrastre
 levín
@@ -8729,7 +8729,7 @@ impedimento
 bienvenido
 lleve
 apresurada
-gentes
+gens
 pridf
 nombrerode
 citadino
@@ -8901,7 +8901,7 @@ diplomáticos
 restauranteros
 joyeros
 adinerados
-juniors
+junior
 ola
 secuestros
 azota
